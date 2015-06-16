@@ -1,0 +1,1 @@
+The simple way to build your Academic Mangament Information System.
